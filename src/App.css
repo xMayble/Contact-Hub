@@ -9,3 +9,37 @@
 body {
   background-color:  #2a4365;
 }
+
+.title_heading {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.title_paragraph {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.title_form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.signup {
+  font-size: 20px;
+}
+
+.login {
+  margin-left: 50px;
+  font-size: 20px;
+}
